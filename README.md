@@ -1,4 +1,4 @@
-The Judgment of Princeton 
+# The Judgment of Princeton 
 Exploring national preferences and wine-tasting scores with Bayesian statistics in Julia
 The Judgment of Princeton is an exploratory data science project examining how judges rated French and New Jersey wines in a blind tasting held on June 8, 2012, during an American Association of Wine Economists conference at Princeton University.
 
